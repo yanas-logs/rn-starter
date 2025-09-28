@@ -1,1 +1,1 @@
-# react-native-web
+# rn-starter
